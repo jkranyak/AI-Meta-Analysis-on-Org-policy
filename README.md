@@ -1,4 +1,4 @@
-# 705_MBA_FinalPaper
+# AI & Organizational Strategy Meta Analysis 
 # All code written by Jesse Kranyak, 
 ### Code edits made with chatgpt4omni, llama3-7b 
 ### Agent Code inspired by David Andrej 
